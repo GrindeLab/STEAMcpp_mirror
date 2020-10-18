@@ -1,0 +1,14 @@
+---
+title: "Try out a Rcpp package"
+author: "Zuofu"
+date: "July 11, 2020"
+output: 
+  rmarkdown::html_vignette: 
+    toc: true
+vignette: >
+  %\VignetteIndexEntry{creating-rcpp-package}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+Try out? Still couldn't browse.
